@@ -1,0 +1,9 @@
+body{
+	margin: 0;
+}
+.formulario{
+	width: 150px;
+	height: 150px;
+	margin: auto;
+	margin-top: 50px;
+}
